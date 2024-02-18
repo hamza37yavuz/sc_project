@@ -1,0 +1,6 @@
+kivy
+plyer
+firebase-admin
+hashlib
+json
+http
