@@ -2,6 +2,8 @@
 
 Bu proje, Solution Challenge yarışması için geliştirilen bir İHA projesidir. Bu proje için bir mobil uygulama ve yer kontrol istasyonu üretilmiştir. Bu uygulamalar, tamamıyla Python 3.12.2 ve Kivy kütüphanesi kullanılarak geliştirilmiştir.
 
+Bu uygulama şuan geliştirilmeye devam etmektedir. Bu sebeple bazı zafiyetleri bulunabilir. Uygulamanın son aşamaya gelinmeden kullanılması sorumluluğumuz altında değildir.
+
 ## Projeye Katkı Sağlayan Takım Üyeleri:
 
 [Muhammet Hamza Yavuz](https://github.com/hamza37yavuz)
